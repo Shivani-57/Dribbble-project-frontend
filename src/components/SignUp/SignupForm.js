@@ -36,6 +36,7 @@ function SignupForm() {
       })
       .catch(function (error) {
         console.log("error",error)
+        console.log("Error message",error.response.data.message)
         setErrorMessage(error.response.data.message)
         console.log("status",error.response.status)
        
