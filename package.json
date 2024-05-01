@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://dribble-project-backend.onrender.com",
+ 
  
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
