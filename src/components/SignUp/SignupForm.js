@@ -28,7 +28,7 @@ function SignupForm() {
     e.preventDefault()
     if(isChecked){
       setErrorMessage("")
-      axios.post('/api/v1/users/signup', formData)
+      axios.post('https://dribble-project-backend.onrender.com/api/v1/users/signup', formData)
       .then(function (response) {
         console.log("response",response);
         navigate("/signin")
