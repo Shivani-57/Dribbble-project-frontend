@@ -53,33 +53,33 @@ function Welcome() {
                                     <div className='border-2 border-gray-200 rounded-xl flex flex-col items-center' onClick={()=>{handleCardClick('designer')}}>
                                         
                                             <div className=' flex items-center justify-center'>
-                                                <img src={imageOne} className='rounded-xl h-40  p-2'></img>
+                                                <img src={imageOne} className='rounded-xl h-40  p-2' alt='Imageone'></img>
                                             </div>
                                             <div className='flex items-center justify-center w-2/3 leading-5' ><p class="text-center text-gray-600 tracking-tighter font-semibold">I'm a designer looking to share my work</p></div>
                                             <div>
-                                                <input type='radio' name="selectedRole" id='selected-card' checked={role == "designer"} onChange={()=>{handleCardClick('designer')}} ></input>
+                                                <input type='radio' name="selectedRole" id='selected-card' checked={role === "designer"} onChange={()=>{handleCardClick('designer')}} ></input>
                                             </div>
                                         
                                     </div>
                                     <div className='border-2 border-gray-200 rounded-xl flex flex-col items-center' onClick={()=>{handleCardClick('hirer')}}>
                                         
                                             <div className='flex items-center justify-center'>
-                                                <img src={imageTwo} className=' rounded-xl h-40 p-2'></img>
+                                                <img src={imageTwo} className=' rounded-xl h-40 p-2' alt='Imagetwo'></img>
                                             </div>
                                             <div className='flex items-center justify-center  w-2/3 leading-5' ><p class="text-center text-gray-600 tracking-tighter font-semibold">I'm looking to hire a designer</p></div>
                                             <div>
-                                                <input type='radio' name="selectedRole" id='selected-card' checked={role == "hirer"} onChange={()=>{handleCardClick('hirer')}} ></input>
+                                                <input type='radio' name="selectedRole" id='selected-card' checked={role === "hirer"} onChange={()=>{handleCardClick('hirer')}} ></input>
                                             </div>
                                         
                                     </div>
                                     <div className='border-2 border-gray-200 rounded-xl flex flex-col items-center' onClick={()=>{handleCardClick('inspiration')}}>
                                         
                                             <div className='flex items-center justify-center'>
-                                                <img src={imageThree} className=' rounded-xl h-40 p-2'></img>
+                                                <img src={imageThree} className=' rounded-xl h-40 p-2' alt='Imagethree'></img>
                                             </div>
                                             <div className='flex items-center justify-center    w-2/3 leading-5' ><p class="text-center text-gray-600 tracking-tighter font-semibold">I'm looking for design inspiration</p></div>
                                             <div>
-                                                <input type='radio' name="selectedRole" id='selected-card' checked={role == "inspiration"} onChange={()=>{handleCardClick('inspiration')}} ></input>
+                                                <input type='radio' name="selectedRole" id='selected-card' checked={role === "inspiration"} onChange={()=>{handleCardClick('inspiration')}} ></input>
                                             </div>
                                         
                                     </div>

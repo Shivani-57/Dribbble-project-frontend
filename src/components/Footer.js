@@ -26,28 +26,28 @@ function Footer() {
                                     <span className='font-bold tracking-tight '>For designers</span>
                                 </div>
                                 <div>
-                                    <a href='#' className='font-sans'>Go Pro!</a>
+                                    <a href='https://www.google.com/' className='font-sans'>Go Pro!</a>
                                 </div>
                                 <div>
-                                    <a href='#' className='font-sans'>Explore Design Work</a>
+                                    <a href='https://www.google.com/' className='font-sans'>Explore Design Work</a>
                                 </div>
                                 <div>
-                                    <a href='#' className='font-sans'>Design Blog</a>
+                                    <a href='https://www.google.com/' className='font-sans'>Design Blog</a>
                                 </div>
                                 <div>
-                                    <a href='#' className='font-sans'>Overtime Podcast</a>
+                                    <a href='https://www.google.com/' className='font-sans'>Overtime Podcast</a>
                                 </div>
                                 <div>
-                                    <a href='#' className='font-sans'>Play offs</a>
+                                    <a href='https://www.google.com/' className='font-sans'>Play offs</a>
                                 </div>
                                 <div>
-                                    <a href='#' className='font-sans'>Weekly Warm-Up</a>
+                                    <a href='https://www.google.com/' className='font-sans'>Weekly Warm-Up</a>
                                 </div>
                                 <div>
-                                    <a href='#' className='font-sans'>Refer a friend</a>
+                                    <a href='https://www.google.com/' className='font-sans'>Refer a friend</a>
                                 </div>
                                 <div>
-                                    <a href='#' className='font-sans'>Code of Conduct</a>
+                                    <a href='https://www.google.com/' className='font-sans'>Code of Conduct</a>
                                 </div>
 
                             </div>
@@ -59,13 +59,13 @@ function Footer() {
                                         <span className='font-bold tracking-tight'>Hire Designers</span>
                                     </div>
                                     <div>
-                                        <a href='#' >Post a job opening</a>
+                                        <a href='https://www.google.com/' >Post a job opening</a>
                                     </div>
                                     <div>
-                                        <a href='#' >Post a freelance project</a>
+                                        <a href='https://www.google.com/' >Post a freelance project</a>
                                     </div>
                                     <div>
-                                        <a href='#' >Search for designers</a>
+                                        <a href='https://www.google.com/' >Search for designers</a>
                                     </div>
                                 </div>
                                 <div className='border-2 border-blue-500 flex flex-col gap-3'>
@@ -73,7 +73,7 @@ function Footer() {
                                         <span className='font-bold tracking-tight'>Brands</span>
                                     </div>
                                     <div>
-                                        <a href='#' >Advertise with us</a>
+                                        <a href='https://www.google.com/' >Advertise with us</a>
                                     </div>
                                     </div>
                                     
@@ -87,31 +87,31 @@ function Footer() {
                                 <span className='font-bold tracking-tight'>Company</span>
                                 </div>
                                 <div>
-                                        <a href='#' >About</a>
+                                        <a href='https://www.google.com/' >About</a>
                                     </div>
                                     <div>
-                                        <a href='#' >Careers</a>
+                                        <a href='https://www.google.com/' >Careers</a>
                                     </div>
                                     <div>
-                                        <a href='#' >Support</a>
+                                        <a href='https://www.google.com/' >Support</a>
                                     </div>
                                     <div>
-                                        <a href='#' >Media Kit</a>
+                                        <a href='https://www.google.com/' >Media Kit</a>
                                     </div>
                                     <div>
-                                        <a href='#' >Testimonials</a>
+                                        <a href='https://www.google.com/' >Testimonials</a>
                                     </div>
                                     <div>
-                                        <a href='#' >API</a>
+                                        <a href='https://www.google.com/' >API</a>
                                     </div>
                                     <div>
-                                        <a href='#' >terms of service</a>
+                                        <a href='https://www.google.com/' >terms of service</a>
                                     </div>
                                     <div>
-                                        <a href='#' >Privacy policy</a>
+                                        <a href='https://www.google.com/' >Privacy policy</a>
                                     </div>
                                     <div>
-                                        <a href='#' >Cookie policy</a>
+                                        <a href='https://www.google.com/' >Cookie policy</a>
                                     </div>
                             </div>
                             
@@ -123,19 +123,19 @@ function Footer() {
                                 <span className='font-bold tracking-tight'>Directories</span>
                                 </div>
                                 <div>
-                                        <a href='#' >Design jobs</a>
+                                        <a href='https://www.google.com/' >Design jobs</a>
                                     </div>
                                      <div>
-                                        <a href='#' >Designers for hire</a>
+                                        <a href='https://www.google.com/' >Designers for hire</a>
                                     </div> 
                                     <div>
-                                        <a href='#' >Freelance designers for hire</a>
+                                        <a href='https://www.google.com/' >Freelance designers for hire</a>
                                     </div> 
                                     <div>
-                                        <a href='#' >Tags</a>
+                                        <a href='https://www.google.com/' >Tags</a>
                                     </div>
                                      <div>
-                                        <a href='#' >Places</a>
+                                        <a href='https://www.google.com/' >Places</a>
                                     </div>
 
                                 </div>
@@ -144,16 +144,16 @@ function Footer() {
                                 <span className='font-bold tracking-tight'>Design Assets</span>
                                 </div>
                                 <div>
-                                        <a href='#' >Dribbble Marketplace</a>
+                                        <a href='https://www.google.com/' >Dribbble Marketplace</a>
                                     </div>
                                     <div>
-                                        <a href='#' >Creative Market</a>
+                                        <a href='https://www.google.com/' >Creative Market</a>
                                     </div> 
                                     <div>
-                                        <a href='#' >Fontspring</a>
+                                        <a href='https://www.google.com/' >Fontspring</a>
                                     </div> 
                                     <div>
-                                        <a href='#' >Font squirrel</a>
+                                        <a href='https://www.google.com/' >Font squirrel</a>
                                     </div>
                                 </div>
 
@@ -165,17 +165,17 @@ function Footer() {
                                 <span className='font-bold tracking-tight'>Design Resources</span>
                                 </div>
                                 <div>
-                                        <a href='#' >Freelancing</a>
+                                        <a href='https://www.google.com/' >Freelancing</a>
                                     </div><div>
-                                        <a href='#'>Design Hiring</a>
+                                        <a href='https://www.google.com/'>Design Hiring</a>
                                     </div><div>
-                                        <a href='#' >Design Portfolio</a>
+                                        <a href='https://www.google.com/' >Design Portfolio</a>
                                     </div><div>
-                                        <a href='#' >Design Education</a>
+                                        <a href='https://www.google.com/' >Design Education</a>
                                     </div>  <div>
-                                        <a href='#' >Creative Process</a>
+                                        <a href='https://www.google.com/' >Creative Process</a>
                                     </div><div>
-                                        <a href='#' >Design Industry Trends</a>
+                                        <a href='https://www.google.com/' >Design Industry Trends</a>
                                     </div>
 
                             </div>
